@@ -1,0 +1,8 @@
+{
+  "name": "CHURCH CONNECT",
+  "description": "Connecting Members, Strengthening Faith, Building Community. A complete digital management platform for church administration, pastoral care, welfare, conferences, meetings, finances, and member communication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
